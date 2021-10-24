@@ -14,7 +14,7 @@
   <a href="https://instagram.com/julixvd" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:julia.dias@sga.pucminas.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <img align="right" alt="julia-desenho" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/864984439838998578/901556282367021076/eu.jpg">
+  <img align="right" alt="julia-desenho" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/877570626947264562/901893034231349298/picasion.com_c1bdb50f9d60cd36d3f024f8591b7266.gif">
  
  
 </div>
