@@ -1,4 +1,4 @@
-# salaam aleikum!
+# salaam aleikum!  ﾟ⋆ ˚｡⋆
 
 <div align="center">
   <a href="https://github.com/scognamiglioo">
