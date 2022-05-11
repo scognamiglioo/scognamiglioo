@@ -12,6 +12,7 @@
 <div> 
   <a href="https://www.youtube.com/channel/UCOmJPSjw745_9rmfXWos2cg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <img align="right" alt="julia-desenho" height="180" style="border-radius:50px;" src="https://i.pinimg.com/originals/1d/e9/cc/1de9cc29be5689a7c9b9eb8e8bb8e6f6.gif">
- 
+  
+    ![Snake animation](https://github.com/scognamiglioo/scognamiglioo/blob/output/github-contribution-grid-snake.svg)
  
 </div>
