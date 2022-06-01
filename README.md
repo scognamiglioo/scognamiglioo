@@ -18,7 +18,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" alt="julia-desenho" height="180" style="border-radius:50px;" src="https://i.pinimg.com/originals/1d/e9/cc/1de9cc29be5689a7c9b9eb8e8bb8e6f6.gif">
+ 
 </div>
     <div>
           <div  align="center"> 
