@@ -1,8 +1,8 @@
-# salaam aleikum!  ﾟ⋆ ˚｡⋆
+#  ﾟ⋆ ˚｡⋆
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scognamiglioo&layout=compact&langs_count=7&theme=buefy"/>
-  <img height="140em" src="https://i.pinimg.com/originals/14/28/de/1428de040909ecf3786c2b93c1a633be.gif">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scognamiglioo&layout=compact&langs_count=7&theme=shadow_green"/>
+  <img height="150em" src="https://i.pinimg.com/originals/c7/c7/c4/c7c7c4de19111a666f99b9655d3b0927.gif">
     
     
 </div>
