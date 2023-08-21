@@ -2,7 +2,7 @@
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scognamiglioo&layout=compact&langs_count=7&theme=shadow_green"/>
-  <img height="150em" src="https://i.pinimg.com/originals/c7/c7/c4/c7c7c4de19111a666f99b9655d3b0927.gif">
+  <img height="150em" src="https://i.pinimg.com/originals/76/cd/8a/76cd8a854d7e19e247a6e2594b5a80ac.gif">
     
     
 </div>
@@ -21,6 +21,10 @@
 </div>
     
 
-
+<div>
+  
+  ![Snake animation](https://github.com/scognamiglioo/scognamiglioo/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
    
